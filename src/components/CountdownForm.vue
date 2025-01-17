@@ -7,7 +7,7 @@
       <label for="date-picker">Wybierz datę:</label>
       <input v-model="date" id="date-picker" :min="minDate" type="datetime-local">
       
-      <button @click="createCountdown" id="new-countdown">Dodaj</button>
+      <button type="button" @click="createCountdown" id="new-countdown">Dodaj</button>
     </form>
   </div>
 </template>
