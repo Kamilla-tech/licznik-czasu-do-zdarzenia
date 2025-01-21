@@ -1,4 +1,16 @@
-# liczniki-czasu-do-zdarzenia
+# Countdown Timer to an Event
+
+An application that counts down the time to an event.
+
+Allows setting multiple events.
+
+Options:
+- Event title
+- Date/Time set using a calendar
+
+Demo:
+
+https://licznik-czasu-do-zdarzenia.kamila-tech.pl
 
 ## Project setup
 ```
